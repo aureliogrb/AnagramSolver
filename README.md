@@ -1,0 +1,3 @@
+# AnagramSolver
+Solves anagrams
+
